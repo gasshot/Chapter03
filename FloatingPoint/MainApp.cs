@@ -11,6 +11,7 @@ namespace FloatingPoint
 
             double b = 3.1415_9265_3589_7932_3864;
             Console.WriteLine(b);
+            //
         }
     }
 }
